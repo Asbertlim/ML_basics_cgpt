@@ -1,1 +1,1 @@
-# ML_basics_cgpt
+# ML_course_cgpt
